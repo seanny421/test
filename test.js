@@ -1,3 +1,4 @@
 function hello(){
-    console.log("Hello");
+    console.log("Hello -was committed from macbook");
+    console.log("Commit from PC");
 }
